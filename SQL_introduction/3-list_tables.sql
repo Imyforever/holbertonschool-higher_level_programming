@@ -1,2 +1,2 @@
 -- list tables
-LIST TABLES FROM DATABASE mysql;
+SHOW TABLES;
