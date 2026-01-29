@@ -1,1 +1,1 @@
-# I hate you holberton
+# More queries
